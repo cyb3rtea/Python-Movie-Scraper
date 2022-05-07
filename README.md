@@ -10,7 +10,7 @@ python 3.9
 Python modules:
 ```
 pip3 install beautifulsoup4
-pip3 isntall requests
+pip3 install requests
 pip3 install time
 ```
 
