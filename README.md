@@ -3,8 +3,7 @@
 This is a simple straight-forward python web scraper using BeautifulSoup4 in order to pull down a list of trending movies from showboxmovies.net
 
 ## Requirements
-python 3.9
-Python modules:
+python 3.9\nPython modules:
 ```
 pip3 install beautifulsoup4
 pip3 isntall requests
