@@ -23,7 +23,7 @@ python3 movie_scraper.py
 
 #### Example output
 
-![image](https://user-images.githubusercontent.com/105121000/167265891-a7f3bd29-a64a-403f-abae-31ea5da4b261.png)
+![image](https://raw.githubusercontent.com/cyb3rtea/Python-Movie-Scraper/main/imgs/movie_scraper_out.png)
 
 ## Why?
 
