@@ -5,14 +5,17 @@ This is a simple straight-forward python web scraper using BeautifulSoup4 in ord
 ## Requirements
 python 3.9
 Python modules:
-> pip3 install beautifulsoup4
-> pip3 isntall requests
-> pip3 install time
+```
+pip3 install beautifulsoup4
+pip3 isntall requests
+pip3 install time
+```
 
 ## RUN
 Once the requirements are met, simply run the file with
-> python3 movie_scraper.py
-
+```
+python3 movie_scraper.py
+```
 ## Why?
 Other than wanting to get a bit of practice in for an upcoming project, there is no real reason.
 And yes, I am aware that pirating movies is bad, that's why there is no downloading of any content bar the webpage HTML itself.
