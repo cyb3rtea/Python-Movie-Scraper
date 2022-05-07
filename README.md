@@ -17,5 +17,5 @@ Once the requirements are met, simply run the file with
 Other than wanting to get a bit of practice in for an upcoming project, there is no real reason.
 And yes, I am aware that pirating movies is bad, that's why there is no downloading of any content bar the webpage HTML itself.
 
-## liscencing
+## licensing
 Anyone with youtube can write this code, have at it. But, I am in no way responsible for anything you decide to do with this code. 
