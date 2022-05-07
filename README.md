@@ -6,7 +6,7 @@ This is a simple straight-forward python web scraper using BeautifulSoup4 in ord
 
 ## Requirements
 
-python 3.9
+python 3.9  
 Python modules:
 ```
 pip3 install beautifulsoup4
